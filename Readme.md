@@ -1,9 +1,9 @@
 This document explains how to use Vasculature-on-Chip-Analysis-Tool (VoCAT):
-This tool was developed and designed by Yang Qihang. Please contact us if you have any questions yangqihang@hust.edu.cn
+This tool was developed and designed by Yang Qihang. Please contact us if you have any questions: yangqihang@hust.edu.cn
 Copyright: Yang Qihang
 # VoCAT is recommended to run on MATLAB R2024b or higher versions.
 
-# There are two ways to run VoCAT: 
+# There are two ways to run VoCAT App: 
 1. Install the VoCAT App using the 'VoCATApp.mlappinstall' file in MATLAB. After installation, the app is ready for use.
 2. Run it through the VoCAT.exe file located in the 'VoCATApp' folder, which requires MATLAB Runtime to be installed on the computer. 
 The first method is recommended by the authors as it offers better performance.
